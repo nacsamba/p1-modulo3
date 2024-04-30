@@ -7,3 +7,4 @@ he modificado este fichero desde la rama4
  2a86d78 (modificacion del fichero hola-git.txt desde la rama4)
 añado una linea en repositorio remoto
 otra linea
+nueva linea en local
